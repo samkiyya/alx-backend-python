@@ -2,7 +2,7 @@
 
 ![Repo size](https://img.shields.io/github/repo-size/samkiyya/alx-backend-python)
 ![Pep8 style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
-![Latest commit](https://img.shields.io/github/last-commit/samkiyya/alx-backend-python/main?style=round-square)
+![Latest commit](https://img.shields.io/github/last-commit/samkiyya/alx-backend-python/master?style=round-square)
 
 This repository contains projects aimed at learning and applying backend development concepts using **Python**. The focus is on enhancing code clarity, performance, and robustness through best practices like type annotations, duck typing, and static code validation.
 
